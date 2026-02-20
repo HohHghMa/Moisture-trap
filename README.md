@@ -312,3 +312,5 @@ void loop() {
    checkDiscordCommands();
  }
 }
+
+![Image](IMG_20260216_105332.jpg)
